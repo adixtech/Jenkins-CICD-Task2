@@ -27,3 +27,18 @@ The initial Jenkins pipeline completed successfully. Build, Test, and Deploy pas
 
 ## Automatic Trigger
 The pipeline polls GitHub every minute. A new commit must be pushed and another build observed to verify automatic triggering...!!
+
+
+## Proof of Execution
+
+The `screenshots/` folder contains evidence of:
+
+- Successful Jenkins Build, Test, and Deploy stages
+- Jenkins console output showing `Finished: SUCCESS`
+- Automatic pipeline triggering after a GitHub commit
+- The application running locally at http://localhost:8081
+- The GitHub repository and project files
+
+## Repository
+
+https://github.com/adixtech/Jenkins-CICD-Task2
