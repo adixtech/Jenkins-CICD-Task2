@@ -26,4 +26,4 @@ Open http://localhost:8081 in your browser.
 The initial Jenkins pipeline completed successfully. Build, Test, and Deploy passed, and the webpage returned the expected HTML response.
 
 ## Automatic Trigger
-The pipeline polls GitHub every minute. A new commit must be pushed and another build observed to verify automatic triggering.
+The pipeline polls GitHub every minute. A new commit must be pushed and another build observed to verify automatic triggering...
